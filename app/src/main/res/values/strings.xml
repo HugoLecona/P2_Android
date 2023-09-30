@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">p2</string>
+    <string name="TituloL1">Pantalla inicial del proyecto</string>
+    <string name="titulob1l1">Boton que no hace nada</string>
+    <string name="tituloi1">Imagen</string>
+    <string name="tituloL2">Este es el segundo layout de mi aplicacion</string>
+</resources>
